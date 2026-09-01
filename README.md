@@ -34,16 +34,16 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
   <h2>## 🚀 DEPLOYED SYSTEMS</h2>
 </p>
 <p align="center">
-  <a href="https://github.com/AtharvBulkunde/Volunteer-Link">
+  <a href="https://github.com/AtharvBulkunde/HTML">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=The-Food-Stop-&theme=tokyonight" />
   </a>
-  <a href="https://github.com/AtharvBulkunde/EduSphere">
+  <a href="https://github.com/AtharvBulkunde/AtharvBulkunde">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=HTML&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AtharvBulkunde/Quick-Poll">
+  <a href="https://github.com/AtharvBulkunde/Trust-wallet-ui-ux-design">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=Trust-wallet-ui-ux-design&theme=tokyonight" />
   </a>
 </p>
