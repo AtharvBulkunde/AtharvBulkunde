@@ -232,6 +232,6 @@ Languages I use most:
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f8/a4/3e/f8a43e84987f93d1f17a5a839f5b15fa.jpg"/>
+ 
 </p>
 
