@@ -34,17 +34,17 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
   <h2>## 🚀 DEPLOYED SYSTEMS</h2>
 </p>
 <p align="center">
-  <a href="https://github.com/bulkundeatharv407/Volunteer-Link">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=The-Food-Stop-&theme=tokyonight" />
+  <a href="https://github.com/AtharvBulkunde/Volunteer-Link">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=The-Food-Stop-&theme=tokyonight" />
   </a>
-  <a href="https://github.com/bulkundeatharv/EduSphere">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=HTML&theme=tokyonight" />
+  <a href="https://github.com/AtharvBulkunde/EduSphere">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=HTML&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/bulkundeatharv/Quick-Poll">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=Trust-wallet-ui-ux-design&theme=tokyonight" />
+  <a href="https://github.com/AtharvBulkunde/Quick-Poll">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=Trust-wallet-ui-ux-design&theme=tokyonight" />
   </a>
 </p>
 <h2>## 💻 DEVELOPMENT STACK</h2>
@@ -99,11 +99,11 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 🗄️ Mini Projects
 
 <p align="center">
-  <a href="https://github.com/VedantBakre/Fun-With-IOT">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=EduTrack-Pro---Complete-College-Management-System&theme=tokyonight" />
+  <a href="https://github.com/AtharvBulkunde/Fun-With-IOT">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=EduTrack-Pro---Complete-College-Management-System&theme=tokyonight" />
   </a>
   <a href="https://github.com/VedantBakre/Python-Verse">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=construction-management&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=construction-management&theme=tokyonight" />
   </a>
 </p>
 
@@ -113,7 +113,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulkundeatharv407-svg&theme=tokyo-night&bg_color=00000000&hide_border=true&line=a855f7&point=ec4899" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvBulkunde&theme=tokyo-night&bg_color=00000000&hide_border=true&line=a855f7&point=ec4899" width="95%"/>
 </p>
 
 <p align="center">
@@ -122,12 +122,12 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## ⚡ SYSTEM STATS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bulkundeatharv407-svg&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtharvBulkunde&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bulkundeatharv407-svg&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bulkundeatharv407-svg&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtharvBulkunde&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtharvBulkunde&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -136,7 +136,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 📊 LIVE SYSTEM DATA
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bulkundeatharv407-svg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AtharvBulkunde&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
 </p>
 
 <p align="center">
@@ -152,7 +152,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 Languages I use most:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bulkundeatharv407-svg&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AtharvBulkunde&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
 
 <p align="center">
@@ -172,7 +172,7 @@ Languages I use most:
 ## 🤝 CONNECT
 
 <p align="center">
-  <a href="https://github.com/bulkundeatharv407-svg" target="_blank">
+  <a href="https://github.com/AtharvBulkunde" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-a855f7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/atharv-bulkunde-2999012a5/" target="_blank">
