@@ -30,8 +30,9 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 </p>
-## 🚀 DEPLOYED SYSTEMS
-
+<p align="center">
+  <h2>## 🚀 DEPLOYED SYSTEMS</h2>
+</p>
 <p align="center">
   <a href="https://github.com/bulkundeatharv407/Volunteer-Link">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=The-Food-Stop-&theme=tokyonight" />
