@@ -25,7 +25,7 @@ Developer
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/59/d6/8f/59d68fba82d17f1323f4976d17283370.jpg" />
+  <img src="" />
 </p>
 My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLCkOGPOh/view?usp=sharing">ATHARV BULKUNDE.pdf</a>
 <p align="center">
