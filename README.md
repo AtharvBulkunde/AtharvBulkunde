@@ -35,10 +35,10 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 </p>
 <p align="center">
   <a href="https://github.com/AtharvBulkunde/HTML">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=The-Food-Stop-&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=HTML&theme=tokyonight" />
   </a>
   <a href="https://github.com/AtharvBulkunde/AtharvBulkunde">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=HTML&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=AtharvBulkunde&repo=HTML&theme=AtharvBulkunde" />
   </a>
 </p>
 
