@@ -113,8 +113,13 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvBulkunde&theme=tokyo-night&bg_color=00000000&hide_border=true&line=a855f7&point=ec4899" width="95%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvBulkunde&theme=tokyo-night&bg_color=00000000&hide_border=true&line=a855f7&point=ec4899"
+    width="95%"
+    alt="AtharvBulkunde GitHub Activity Graph"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
