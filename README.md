@@ -47,7 +47,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bulkundeatharv407-svg&repo=Trust-wallet-ui-ux-design&theme=tokyonight" />
   </a>
 </p>
-## 💻 DEVELOPMENT STACK
+<h2>## 💻 DEVELOPMENT STACK</h2>
 
 <!-- FRONTEND -->
 
